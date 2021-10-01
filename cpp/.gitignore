@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Libtorch Library
+libtorch-cxx11-abi-shared-with-deps-1.9.1+cu111.zip
+libtorch
+
+# build
+**/build/**
