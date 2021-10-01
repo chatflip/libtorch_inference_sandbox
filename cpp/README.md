@@ -21,10 +21,9 @@ sudo make install
 
 ## Usage
 ```bash
-cd test_load_model
+cd test_model
 bash build.sh
 cd build
-./test_load_model ./../../../models/mobilenetv2.pt
-./test_load_model ./../../../models/quantize_mobilenetv2.pt
-./test_load_model ./../../../models/deeplabv3_mobilenetv3_large.pt
+./test_model ./../../../models/mobilenetv2.pt
+./test_model ./../../../models/quantize_mobilenetv2.pt
 ```
