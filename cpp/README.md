@@ -5,6 +5,7 @@
 
 ### LibTorch
 ```bash
+# cuda 11.1, cxx11 ABI
 wget https://download.pytorch.org/libtorch/cu111/libtorch-cxx11-abi-shared-with-deps-1.9.1%2Bcu111.zip
 unzip libtorch-cxx11-abi-shared-with-deps-1.9.1+cu111.zip
 ```
